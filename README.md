@@ -40,12 +40,9 @@ The programme follows two fundamental processes:
 3. The ciphertext is converted back into plaintext.
 4. The original message is displayed.
 
-## 🧪 Example
+##🖥️ Application Screenshot
 
-```text
-
-```
-
+![Encryption and Decryption Tool](Screenshot(22).png)
 
 ## 👨‍💻 Author
 
